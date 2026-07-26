@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "title": "کتاب نمونه",
+    "description": "یک کتاب PDF رایگان.",
+    "pdf": "books/sample.pdf"
+  }
+]
